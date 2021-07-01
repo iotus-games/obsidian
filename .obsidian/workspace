@@ -7,6 +7,17 @@
         "id": "0c024729294f52a3",
         "type": "leaf",
         "state": {
+          "type": "markdown",
+          "state": {
+            "file": "игры/Factorio.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d84d3c7e9b56b6b7",
+        "type": "leaf",
+        "state": {
           "type": "graph",
           "state": {}
         }
@@ -65,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "игры/Factorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +96,15 @@
   },
   "active": "0c024729294f52a3",
   "lastOpenFiles": [
-    "жанры/MOBA.md",
-    "механики/Сессионность.md",
-    "механики/Сражения.md",
+    "игры/Factorio.md",
+    "игры/Civilization.md",
+    "механики/Игральные карты.md",
+    "механики/Исследование территории.md",
+    "механики/Карты.md",
+    "жанры/Глобальная стратегия.md",
+    "механики/Процедурная генерация.md",
+    "механики/Прокачка персонажа.md",
     "механики/Untitled.md",
-    "механики/Руководство массами.md",
-    "жанры/4X стратегия.md",
-    "механики/Прокачка.md",
-    "жанры/RTS - классика.md",
-    "изображения/game_graph.svg",
-    "механики/Расширение территории.md"
+    "игры/Untitled.md"
   ]
 }
