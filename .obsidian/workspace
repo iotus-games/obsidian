@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Словарь.md",
+            "file": "Цели.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Словарь.md",
+                "file": "Цели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "0c024729294f52a3",
   "lastOpenFiles": [
-    "Словарь.md",
     "Untitled.md",
+    "Словарь.md",
     "README.md",
     "жанры/TBS - классика.md",
     "механики/Экономика.md",
