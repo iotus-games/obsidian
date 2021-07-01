@@ -7,11 +7,8 @@
         "id": "0c024729294f52a3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Цели.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Цели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "0c024729294f52a3",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Словарь.md",
-    "README.md",
-    "жанры/TBS - классика.md",
-    "механики/Экономика.md",
-    "механики/Управление государствами.md",
-    "механики/Строительство.md",
+    "жанры/MOBA.md",
+    "механики/Сессионность.md",
     "механики/Сражения.md",
+    "механики/Untitled.md",
     "механики/Руководство массами.md",
-    "механики/Реалтайм.md"
+    "жанры/4X стратегия.md",
+    "механики/Прокачка.md",
+    "жанры/RTS - классика.md",
+    "изображения/game_graph.svg",
+    "механики/Расширение территории.md"
   ]
 }
