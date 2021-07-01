@@ -7,8 +7,11 @@
         "id": "0c024729294f52a3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Словарь.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Словарь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "0c024729294f52a3",
   "lastOpenFiles": [
+    "Словарь.md",
+    "Untitled.md",
+    "README.md",
     "жанры/TBS - классика.md",
     "механики/Экономика.md",
     "механики/Управление государствами.md",
     "механики/Строительство.md",
     "механики/Сражения.md",
     "механики/Руководство массами.md",
-    "механики/Реалтайм.md",
-    "механики/Пошаговость.md",
-    "жанры/Глобальная стратегия.md",
-    "жанры/Стратегия.md"
+    "механики/Реалтайм.md"
   ]
 }
