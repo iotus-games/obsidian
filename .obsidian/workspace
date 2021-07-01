@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "2a0400180f9c32a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c024729294f52a3",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0cc97c2c0d9a04b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c458d716849ad2af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a476e5fdf90e2982",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d878a18b568d250e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b9314877991ba31",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e65948410752008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bedfe266a913902d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0c024729294f52a3",
+  "lastOpenFiles": [
+    "жанры/TBS - классика.md",
+    "механики/Экономика.md",
+    "механики/Управление государствами.md",
+    "механики/Строительство.md",
+    "механики/Сражения.md",
+    "механики/Руководство массами.md",
+    "механики/Реалтайм.md",
+    "механики/Пошаговость.md",
+    "жанры/Глобальная стратегия.md",
+    "жанры/Стратегия.md"
+  ]
+}
